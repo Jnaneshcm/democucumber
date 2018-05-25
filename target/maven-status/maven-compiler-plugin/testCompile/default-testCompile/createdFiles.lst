@@ -1,0 +1,6 @@
+com\salesforce\pages\common\LoginPage.class
+com\salesforce\pages\SalesForceBasePage.class
+com\salesforce\util\SalesforceWebdriverBase.class
+com\salesforce\steps\SalesForceStandardSteps.class
+com\salesforce\runner\CucumberTestRunnerSuit.class
+com\salesforce\pagefactory\PageFactory.class
